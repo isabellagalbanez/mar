@@ -26,7 +26,7 @@ export default function () {
       
      <div>
       <ul>
-         <h1>ＳＯＢＲＥ ＯＳ ＯＣＥＡＮＯＳ：</h1>
+         <h1>ＳＯＢＲＥ ! ＯＳ ＯＣＥＡＮＯＳ：</h1>
 
           <li>O SOL DÁ AO OCEANO SUA TONALIDADE AZUL...</li> 
           <li>OS OCEANOS MANTÊM A INTERNET ONLINE...</li> 
